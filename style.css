@@ -9,3 +9,15 @@ body {
     margin: 0;
     overflow-x: hidden;
 }
+.barra{
+    position: fixed;
+    display: flex;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 3vw;
+    background-color: mediumaquamarine;
+}
+h1{
+    font-size: 2vw;
+}
