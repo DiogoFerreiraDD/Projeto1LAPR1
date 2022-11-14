@@ -9,7 +9,7 @@ body {
     margin: 0;
     overflow-x: hidden;
 }
-.barra{
+#barra{
     position: fixed;
     display: flex;
     left: 0;
@@ -20,4 +20,13 @@ body {
 }
 h1{
     font-size: 2vw;
+}
+#navbar{
+    float: right;
+    height: 100%;
+    margin-top: 3vw;
+    margin-right: 5px;
+}
+ul{
+    list-style-type: none;;
 }
