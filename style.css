@@ -22,7 +22,7 @@ h1{
     font-size: 2vw;
 }
 #navbar{
-    float: right;
+    float: left;
     height: 100%;
     margin-top: 3vw;
     margin-right: 5px;
