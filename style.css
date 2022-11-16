@@ -19,7 +19,13 @@ body {
     background-color: rgb(0, 0, 0);
 }
 h1{
+    @font-face {
+        font-family: ADAM;
+        src: url(ADAM.CG PRO);
+    }
+    font-family: ADAM;
     font-size: 2vw;
+    color: white;
 }
 #navbar{
     float: left;
