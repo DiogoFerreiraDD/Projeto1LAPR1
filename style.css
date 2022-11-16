@@ -10,7 +10,6 @@ body {
     overflow-x: hidden;
 }
 #barra{
-    position: fixed;
     display: flex;
     left: 0;
     top: 0;
@@ -22,17 +21,21 @@ h1{
     font-size: 2vw;
 }
 #navbar{
-    float: left;
-    height: 100%;
-    margin-top: 3vw;
-    margin-right: 5px;
+    position: fixed;
+    height: 5vw;
 }
 ul{
     list-style-type: none;
+    display: inline-flex;
+    width: 70%;
+    margin: auto;
 }
 a:hover{
     text-decoration: underline;
 }
 .nav-link{
     text-decoration: none;
+}
+.nav-item{
+    margin: auto;
 }
