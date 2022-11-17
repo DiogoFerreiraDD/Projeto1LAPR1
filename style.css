@@ -25,14 +25,15 @@ h1{
 #navbar{
     font-family: 'Nunito', sans-serif;
     position: fixed;
-    height: 4vw;
+    height: 3vw;
+    width: 100%;
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333333;
+    background-color: #000000;
 }
   
 li {
@@ -46,11 +47,10 @@ li a {
     padding: 16px;
     text-decoration: none;
 }
-<<<<<<< HEAD
   
 li a:hover {
-    background-color: #111111;
-=======
+    background-color: #222222;
+}
 .nav-item{
     margin: auto;
 }
@@ -65,5 +65,4 @@ li a:hover {
     margin-left: 8vw;
     margin-right: 8vw;
     color: rgb(0, 0, 0);
->>>>>>> 8c2c32a01ab8fb4300905b3418fc6407fb001e52
 }
