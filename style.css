@@ -46,7 +46,24 @@ li a {
     padding: 16px;
     text-decoration: none;
 }
+<<<<<<< HEAD
   
 li a:hover {
     background-color: #111111;
+=======
+.nav-item{
+    margin: auto;
+}
+#logo{
+
+}
+#objetivo{
+    font-family: 'Nunito', sans-serif;
+    font-size: 2,5vw;
+    text-indent: 10pw;
+    text-align: justify;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    color: rgb(0, 0, 0);
+>>>>>>> 8c2c32a01ab8fb4300905b3418fc6407fb001e52
 }
