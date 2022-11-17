@@ -24,7 +24,7 @@ h1{
 }
 #navbar{
     font-family: 'Nunito', sans-serif;
-    position: fixed;
+    position: sticky;
     height: 3vw;
     width: 100%;
 }
@@ -56,6 +56,8 @@ li a:hover {
 }
 #logo{
     text-align: center;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
 }
 #objetivo{
     font-family: 'Nunito', sans-serif;
