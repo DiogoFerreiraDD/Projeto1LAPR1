@@ -42,3 +42,15 @@ a:hover{
 .nav-item{
     margin: auto;
 }
+#logo{
+
+}
+#objetivo{
+    font-family: 'Nunito', sans-serif;
+    font-size: 2,5vw;
+    text-indent: 10pw;
+    text-align: justify;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    color: rgb(0, 0, 0);
+}
