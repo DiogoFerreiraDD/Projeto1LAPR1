@@ -25,20 +25,28 @@ h1{
 #navbar{
     font-family: 'Nunito', sans-serif;
     position: fixed;
-    height: 5vw;
+    height: 4vw;
 }
-ul{
+ul {
     list-style-type: none;
-    display: inline-flex;
-    width: 70%;
-    margin: auto;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
 }
-a:hover{
-    text-decoration: underline;
+  
+li {
+    float: left;
 }
-.nav-link{
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
     text-decoration: none;
 }
-.nav-item{
-    margin: auto;
+  
+li a:hover {
+    background-color: #111111;
 }
