@@ -8,6 +8,7 @@ body {
     padding: 0;
     margin: 0;
     overflow-x: hidden;
+    font-family: 'Nunito', sans-serif;
 }
 #barra{
     display: flex;
@@ -62,15 +63,53 @@ li a:hover {
 }
 #logo{
     text-align: center;
-    margin-top: 4vw;
-    margin-bottom: 4vw;
+    margin-top: 5vw;
 }
 #objetivo{
     font-family: 'Nunito', sans-serif;
-    font-size: 1.9vw;
+    padding-top: 5vw;
+    padding-bottom: 3vw;
+    font-size: 2vw;
     text-indent: 4vw;
     text-align: justify;
     margin-left: 8vw;
     margin-right: 8vw;
     color: rgb(0, 0, 0);
+}
+#funcionalidades{
+    padding-top: 1vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    text-align: center;
+}
+#funcionalidades h1{
+    padding-top: 2vw;
+    font-size: 4vw;
+}
+#funcionalidades table{
+    margin: auto;
+    text-align: center;
+}
+#funcionalidades th{
+    padding-top: 2vw;
+    font-size: 2vw;
+    width: 30%;
+    padding-right: 1vw;
+    padding-left: 1vw;
+}
+#funcionalidades td{
+    padding-top: 2vw;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    font-size: 1.3vw;
+    text-indent: 2vw;
+    text-align: justify;
+}
+#funcionalidades h2{
+    padding-top: 2vw;
+    font-size: 2vw;
+}
+#table2 td{
+    text-indent: 0;
+    text-align: center;
 }
