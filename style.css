@@ -24,7 +24,8 @@ h1{
 }
 #navbar{
     font-family: 'Nunito', sans-serif;
-    position: fixed;
+    position: sticky;
+    top: 0;
     height: 3vw;
     width: 100%;
 }
@@ -34,10 +35,15 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #000000;
+    float: left;
+    width: 100%;
 }
   
 li {
     float: left;
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
 }
   
 li a {
@@ -55,12 +61,14 @@ li a:hover {
     margin: auto;
 }
 #logo{
-
+    text-align: center;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
 }
 #objetivo{
     font-family: 'Nunito', sans-serif;
-    font-size: 2,5vw;
-    text-indent: 10pw;
+    font-size: 1.9vw;
+    text-indent: 4vw;
     text-align: justify;
     margin-left: 8vw;
     margin-right: 8vw;
