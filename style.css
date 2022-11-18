@@ -63,14 +63,33 @@ li a:hover {
 #logo{
     text-align: center;
     margin-top: 4vw;
-    margin-bottom: 4vw;
 }
 #objetivo{
     font-family: 'Nunito', sans-serif;
-    font-size: 1.9vw;
+    padding-top: 4vw;
+    font-size: 2vw;
     text-indent: 4vw;
     text-align: justify;
     margin-left: 8vw;
     margin-right: 8vw;
     color: rgb(0, 0, 0);
+}
+#funcionalidades{
+    padding-top: 4vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    text-align: center;
+}
+#funcionalidades h1{
+    padding-top: 2vw;
+    font-size: 4vw;
+}
+#funcionalidades th{
+    padding-top: 2vw;
+    font-size: 2vw;
+}
+#funcionalidades td{
+    padding-top: 2vw;
+    font-size: 1.2vw;
+    text-indent: 1vw;
 }
