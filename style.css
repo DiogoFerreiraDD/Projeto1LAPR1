@@ -92,10 +92,6 @@ li a:hover {
     padding-top: 2vw;
     font-size: 4vw;
 }
-#funcionalidades table{
-    margin: auto;
-    text-align: center;
-}
 #funcionalidades th{
     padding-top: 2vw;
     font-size: 2vw;
@@ -110,7 +106,7 @@ li a:hover {
     margin-right:0px;
     font-size: 1.3vw;
     text-indent: 2vw;
-    text-align: center;
+    text-align:center;
     border: 4px solid #000000;
     margin-top: 0vw;
 }
@@ -126,12 +122,12 @@ li a:hover {
 #imgSoma{
     margin-left: 8vw;
     float: left;
-    width: 35%;
+    width: 20%;
 }
 #imgApp{
     margin-right: 8vw;
     float: right;
-    width: 35%;
+    width: 20%;
 }
 body{
     background-image: url(https://www.publicdomainpictures.net/pictures/130000/nahled/silver-gray-mist-background.jpg);
@@ -157,4 +153,13 @@ body{
 #botaocomp {
     font-weight: bold;
     font-size: 20px;
+    text-align: center;
 }
+#sobreNos th{
+    text-align: center;
+
+}
+#sobrenos td4{
+    padding-bottom:auto;
+}
+
