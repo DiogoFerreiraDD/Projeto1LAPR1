@@ -44,7 +44,7 @@ li {
     float: left;
     margin-right: auto;
     margin-left: auto;
-    width: 25%;
+    width: 20%;
 }
   
 li a {
@@ -113,4 +113,14 @@ li a:hover {
 #table2 td{
     text-indent: 0;
     text-align: center;
+}
+#imgSoma{
+    margin-left: 8vw;
+    float: left;
+    width: 40%;
+}
+#imgApp{
+    margin-left: 8vw;
+    float: right;
+    width: 40%;
 }
