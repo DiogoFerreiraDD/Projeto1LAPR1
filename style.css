@@ -130,3 +130,8 @@ li a:hover {
     float: right;
     width: 35%;
 }
+body{
+    background-image: url(https://www.publicdomainpictures.net/pictures/130000/nahled/silver-gray-mist-background.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+}
