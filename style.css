@@ -94,12 +94,14 @@ li a:hover {
 #funcionalidades th{
     padding-top: 2vw;
     font-size: 2vw;
+    color:black;
     width: 30%;
     padding-right: 1vw;
     padding-left: 1vw;
 }
 #funcionalidades td{
     padding-top: 2vw;
+    color:black;
     padding-right: 1vw;
     padding-left: 1vw;
     font-size: 1.3vw;
