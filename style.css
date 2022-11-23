@@ -71,6 +71,10 @@ li a:hover {
     width: 100%;
 
 }
+#saberMais{
+    text-align: center;
+    font-size: 2vw;
+}
 #objetivo{
     font-family: 'Nunito', sans-serif;
     padding-top: 5vw;
