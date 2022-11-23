@@ -169,6 +169,10 @@ body{
     font-weight: bold;
     float: right;
 }
+#sobreNosImg {
+    width: 100%;
+    position: relative;
+}
 #botaocomp {
     font-weight: bold;
     font-size: 20px;
