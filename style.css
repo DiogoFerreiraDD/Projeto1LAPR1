@@ -81,6 +81,9 @@ li a:hover {
     margin-right: 8vw;
     color: rgb(0, 0, 0);
 }
+#blocoImagens{
+
+}
 #funcionalidades{
     padding-top: 1vw;
     margin-right: 20vw;
@@ -129,7 +132,8 @@ li a:hover {
     width: 20%;
 }
 body{
-    background-image: url(https://www.publicdomainpictures.net/pictures/130000/nahled/silver-gray-mist-background.jpg);
+    background-image: url(https://wallpapers.com/images/high/solid-white-snow-path-g0yyl4ojzm0clgxc.webp);
+    background-position: center;
     background-repeat: no repeat;
     background-size: cover;
 }
