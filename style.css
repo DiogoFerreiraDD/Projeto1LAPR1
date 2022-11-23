@@ -46,7 +46,7 @@ li {
     float: left;
     margin-right: 10px;
     margin-left: 10px;
-    width: 16%;
+    width: 20%;
 }
   
 li a {
@@ -67,8 +67,24 @@ li a:hover {
     height: 17vw;
     text-align: center;
     margin-top: 20vw;
+    margin-bottom: 5vw;
     width: 100%;
 
+}
+#saberMais{
+    text-align: center;
+    font-size: 1.5vw;
+    background-color: rgb(217, 231, 231);
+    width: 12%;
+    margin: auto;
+}
+#saberMais:hover{
+    background-color: rgb(167, 174, 174);
+    text-decoration: none;
+}
+#saberMais a{
+    text-decoration: none;
+    color: black;
 }
 #objetivo{
     font-family: 'Nunito', sans-serif;
