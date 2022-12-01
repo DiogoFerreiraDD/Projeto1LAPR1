@@ -87,6 +87,7 @@ li a:hover {
 }
 #objetivo{
     font-family: 'Nunito', sans-serif;
+    margin-top: 10vw;
     padding-top: 5vw;
     padding-bottom: 3vw;
     font-size: 2vw;
@@ -100,6 +101,7 @@ li a:hover {
 
 }
 #funcionalidades{
+    margin-top: 30vw;
     padding-top: 1vw;
     margin-right: 20vw;
     margin-left:20vw;
@@ -113,6 +115,7 @@ li a:hover {
     padding-top: 2vw;
     font-size: 2vw;
     position: relative;
+    z-index: -1;
     color:black;
     width: 30%;
     padding-right: 1vw;
