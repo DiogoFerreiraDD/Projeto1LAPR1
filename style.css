@@ -9,6 +9,10 @@ body {
     margin: 0;
     overflow-x: hidden;
     font-family: 'Nunito', sans-serif;
+    background-image: url(https://wallpapers.com/images/high/solid-white-snow-path-g0yyl4ojzm0clgxc.webp);
+    background-position: center;
+    background-repeat: no repeat;
+    background-size: cover;
 }
 #barra{
     display: flex;
@@ -29,6 +33,7 @@ h1{
     font-family: 'Nunito', sans-serif;
     position: sticky;
     top: 0;
+    z-index: 2;
     height: 3vw;
     width: 100%;
 }
@@ -97,10 +102,8 @@ li a:hover {
     margin-right: 8vw;
     color: rgb(0, 0, 0);
 }
-#blocoImagens{
-
-}
 #funcionalidades{
+    clear: both;
     margin-top: 30vw;
     padding-top: 1vw;
     margin-right: 20vw;
@@ -115,7 +118,6 @@ li a:hover {
     padding-top: 2vw;
     font-size: 2vw;
     position: relative;
-    z-index: -1;
     color:black;
     width: 30%;
     padding-right: 1vw;
@@ -152,12 +154,6 @@ li a:hover {
     float: right;
     width: 35%;
 }
-body{
-    background-image: url(https://wallpapers.com/images/high/solid-white-snow-path-g0yyl4ojzm0clgxc.webp);
-    background-position: center;
-    background-repeat: no repeat;
-    background-size: cover;
-}
 #tabela_descansar td{
     font-size:20px;
     font-weight: bold;
@@ -172,5 +168,33 @@ body{
     font-weight: bold;
     font-size: 20px;
     text-align: center;
+}
+.logoContactos{
+    width: 30px;
+}
+#tabelaContactos {
+    border: none;
+    border: 0;
+}
+.esquerda {
+    padding: 0;
+    margin: 0;
+    display: inline-flex;
+}
+.textoEsquerda{
+    text-align: left;
+}
+.textoDireita{
+    text-align: right;
+}
+.instituicao{
+    width: 15vw;
+    float: right;
+    margin-left: 2vw;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+}
+footer{
+    clear: both;
 }
 
